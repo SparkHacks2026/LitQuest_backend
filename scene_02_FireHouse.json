@@ -5,20 +5,82 @@
   "next_scene_id": "04-OldWomanHouse-complete",
 
   "content": [
-    { "type": "narrative", "text": { "beginner": "The firehouse feels bright and silent, full of shining metal.", "intermediate": "He could feel the firehouse full of glitter and shine and silence, of brass colours, the colours of coins, of gold, of silver.", "advanced": "He could feel the firehouse full of glitter and shine and silence, of brass colours, the colours of coins, of gold, of silver." } },
-    { "type": "narrative", "text": { "beginner": "Men sit across the table, quietly waiting and watching.", "intermediate": "The unseen men across the table were sighing on their cards, waiting.", "advanced": "The unseen men across the table were sighing on their cards, waiting." } },
-    { "type": "narrative", "text": { "beginner": "They stare into their flames as they smoke their pipes.", "intermediate": "These men who look steadily into their platinum igniter flames as they light their eternally burning black pipes.", "advanced": "These men who look steadily into their platinum igniter flames as they light their eternally burning black pipes." } },
-    { "type": "narrative", "text": { "beginner": "Their hair and faces are dark with ash and soot.", "intermediate": "They and their charcoal hair and soot-coloured brows and bluish-ash-smeared cheeks where they had shaven close; but their heritage showed.", "advanced": "They and their charcoal hair and soot-coloured brows and bluish-ash-smeared cheeks where they had shaven close; but their heritage showed." } },
+    { 
+      "type": "narrative", 
+      "text": { 
+        "beginner": "The firehouse is bright and quiet. Everything is made of shiny metal like gold and silver.", 
+        "intermediate": "He could feel the firehouse full of glitter and shine and silence, of brass colours, the colours of coins, of gold, of silver.", 
+        "advanced": "The firehouse was a cavern of pressurized silence, vibrating with the metallic glint of brass, the cold sheen of silver, and the dull glow of gold coins." 
+      } 
+    },
+    { 
+      "type": "narrative", 
+      "text": { 
+        "beginner": "Men sit at a table. They are quiet and waiting.", 
+        "intermediate": "The unseen men across the table were sighing on their cards, waiting.", 
+        "advanced": "Across the table, the shadow-draped men sat exhaling softly over their cards, suspended in a state of eternal, weary anticipation." 
+      } 
+    },
+    { 
+      "type": "narrative", 
+      "text": { 
+        "beginner": "They look at the small flames while they smoke their pipes.", 
+        "intermediate": "These men who look steadily into their platinum igniter flames as they light their eternally burning black pipes.", 
+        "advanced": "These were men who stared with unblinking intensity into their platinum igniters, coaxing life into pipes that seemed to burn with a permanent, oily darkness." 
+      } 
+    },
+    { 
+      "type": "narrative", 
+      "text": { 
+        "beginner": "Their hair and faces are dark with ash and soot.", 
+        "intermediate": "They and their charcoal hair and soot-coloured brows and bluish-ash-smeared cheeks where they had shaven close; but their heritage showed.", 
+        "advanced": "They were a montage of charcoal hair and soot-smudged brows, their clean-shaven cheeks perpetually stained with the bluish-ash of their grim heritage." 
+      } 
+    },
 
     { "type": "choice_point", "ref_id": "Investigate_Choice" },
-
     
-    { "type": "action", "text": { "beginner": "You walk over to the paper and read it.", "intermediate": "You go up to the paper and it reads:", "advanced": "You go up to the paper and it reads:" } },
-    { "type": "narrative", "text": { "beginner": "Rule 1: Answer alarms quickly. Rule 2: Start fires fast. Rule 3: Burn everything.", "intermediate": "Rule 1. Answer the alarm swiftly. Rule 2. Start the fire swiftly. Rule 3. Burn everything.", "advanced": "Rule 1. Answer the alarm swiftly. Rule 2. Start the fire swiftly. Rule 3. Burn everything." } },
-    { "type": "narrative", "text": { "beginner": "Rule 4: Return right away. Rule 5: Be ready for more alarms.", "intermediate": "Rule 4. Report back to firehouse immediately. Rule 5. Stand alert for other alarms.", "advanced": "Rule 4. Report back to firehouse immediately. Rule 5. Stand alert for other alarms." } },
+    { 
+      "type": "action", 
+      "text": { 
+        "beginner": "You walk over to the paper and read it.", 
+        "intermediate": "You go up to the paper and it reads:", 
+        "advanced": "You go up to the paper and it reads:" 
+      } 
+    },
+    { 
+      "type": "narrative", 
+      "text": { 
+        "beginner": "Rule 1: Answer alarms quickly. Rule 2: Start fires fast. Rule 3: Burn everything.", 
+        "intermediate": "Rule 1. Answer the alarm swiftly. Rule 2. Start the fire swiftly. Rule 3. Burn everything.", 
+        "advanced": "Rule 1. Answer the alarm swiftly. Rule 2. Start the fire swiftly. Rule 3. Burn everything." 
+      } 
+    },
+    { 
+      "type": "narrative", 
+      "text": { 
+        "beginner": "Rule 4: Return right away. Rule 5: Be ready for more alarms.", 
+        "intermediate": "Rule 4. Report back to firehouse immediately. Rule 5. Stand alert for other alarms.", 
+        "advanced": "Rule 4. Report back to firehouse immediately. Rule 5. Stand alert for other alarms." 
+      } 
+    },
 
-    { "type": "action", "text": { "beginner": "You grip the pole and slide down fast.", "intermediate": "You take the pole and drop swiftly to the lower level.", "advanced": "You take the pole and drop swiftly to the lower level." } },
-    { "type": "narrative", "text": { "beginner": "Below, the air smells like oil and smoke. You hear distant alarms.", "intermediate": "Below, the air smells of oil and smoke; somewhere, an alarm seems ready to cry out.", "advanced": "Below, the air smells of oil and smoke; somewhere, an alarm seems ready to cry out." } }
+    { 
+      "type": "action", 
+      "text": { 
+        "beginner": "You grip the pole and slide down fast.", 
+        "intermediate": "You take the pole and drop swiftly to the lower level.", 
+        "advanced": "You take the pole and drop swiftly to the lower level." 
+      } 
+    },
+    { 
+      "type": "narrative", 
+      "text": { 
+        "beginner": "Below, the air smells like oil and smoke. You hear distant alarms.", 
+        "intermediate": "Below, the air smells of oil and smoke; somewhere, an alarm seems ready to cry out.", 
+        "advanced": "Below, the air smells of oil and smoke; somewhere, an alarm seems ready to cry out." 
+      } 
+    }
   ],
 
   "choices": [
