@@ -2,7 +2,7 @@
   "scene_id": "04-OldWomanHouse-complete",
   "title": "The Old Woman",
   "location": "Old Woman's House",
-  "next_scene_id": "Part-II",
+  "next_scene_id": "01-sidewalk-complete",
 
   "content": [
     {

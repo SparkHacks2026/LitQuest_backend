@@ -3,92 +3,158 @@
   "title": "Meeting Clarisse McClellan",
   "location": "Suburban Sidewalk",
   "next_scene_id": "03-firehouse-complete",
-
   "content": [
     {
       "type": "narrative",
       "text": {
         "beginner": "Dry leaves crunch under your boots as you walk down the dark street.",
         "intermediate": "Dry leaves crunch under your boots as you walk down the dark street.",
-        "advanced": "Dry leaves crunch under your boots as you walk down the dark street."
+        "advanced": "Dry leaves crunch beneath your boots as you move through the darkened street."
       }
     },
     {
       "type": "narrative",
       "text": {
-        "beginner": "The neighborhood is quiet. All the house lights are off.",
+        "beginner": "The neighborhood is silent. Every house has its lights turned off.",
         "intermediate": "The neighborhood is silent. Every house has its lights turned off.",
-        "advanced": "A tomb-like silence gripped the suburbs; every window remained dark, sealing the inhabitants away from the world."
+        "advanced": "The neighborhood is silent, every house dark and lifeless."
       }
     },
     {
       "type": "narrative",
       "text": {
-        "beginner": "You can still smell the strong chemicals on your uniform.",
+        "beginner": "You can still smell the strong scent of kerosene on your uniform.",
         "intermediate": "You can still smell the strong scent of kerosene on your uniform.",
-        "advanced": "The pungent, overwhelming aroma of kerosene clung to your clothes like a second skin, a permanent reminder of your profession."
+        "advanced": "The sharp scent of kerosene still clings stubbornly to your uniform."
       }
     },
     {
       "type": "narrative",
       "text": {
-        "beginner": "You turn a corner and stop. A girl is standing there in a white dress.",
-        "intermediate": "You turn a corner and stop. A girl is standing in the moonlight in a white dress.",
-        "advanced": "Rounding the corner, you freeze. There, bathed in a pale lunar glow, stood a girl whose white dress seemed to shimmer against the shadows."
+        "beginner": "You turn a corner and stop. A girl is standing in the moonlight in a white dress.",
+        "intermediate": "You turn a corner and stop. A girl stands in the moonlight, dressed in white.",
+        "advanced": "You round a corner and halt. A girl stands motionless in the moonlight, dressed in white."
       }
     },
-
     { "type": "image", "src": "INSERT_IMAGE" },
 
     {
       "type": "dialogue",
       "speaker": "Clarisse",
       "text": {
-        "beginner": "Hello. You’re a new neighbor, right?",
+        "beginner": "Of course, you’re a new neighbor, aren’t you?",
         "intermediate": "Of course, you’re a new neighbor, aren’t you?",
-        "advanced": "I thought so... you're the new neighbor who moved in recently, aren't you?"
+        "advanced": "Of course—you’re a new neighbor, aren’t you?"
       }
     },
     {
       "type": "dialogue",
       "speaker": "Clarisse",
       "text": {
-        "beginner": "And you are... the fireman.",
+        "beginner": "And you must be... the fireman.",
         "intermediate": "And you must be... the fireman.",
-        "advanced": "And that means you must be... the fireman."
+        "advanced": "And you must be… the fireman."
       }
     },
+    {
+      "type": "action",
+      "text": {
+        "beginner": "She looks at the orange salamander on your arm and the 451 on your helmet.",
+        "intermediate": "She studies the orange salamander on your arm and the number 451 on your helmet.",
+        "advanced": "Her gaze lingers on the orange salamander stitched on your arm and the 451 on your helmet."
+      }
+    },
+    { "type": "image", "src": "INSERT_IMAGE" },
+
+    {
+      "type": "dialogue",
+      "speaker": "Montag",
+      "text": {
+        "beginner": "How oddly you say that.",
+        "intermediate": "How oddly you say that.",
+        "advanced": "You say that in a very odd way."
+      }
+    },
+    { "type": "image", "src": "INSERT_IMAGE" },
+
+    {
+      "type": "dialogue",
+      "speaker": "Clarisse",
+      "text": {
+        "beginner": "I’d have known it with my eyes shut. The smell of kerosene...",
+        "intermediate": "I’d have known it with my eyes shut. The smell of kerosene...",
+        "advanced": "I’d have known it with my eyes closed—the smell of kerosene gives it away."
+      }
+    },
+    { "type": "image", "src": "INSERT_IMAGE" },
+
+    {
+      "type": "dialogue",
+      "speaker": "Montag",
+      "text": {
+        "beginner": "My wife always complains. You never wash it off completely. Kerosene is perfume to me.",
+        "intermediate": "My wife always complains. You never wash it off completely. Kerosene is perfume to me.",
+        "advanced": "My wife always complains. You can never wash it off completely. To me, kerosene is perfume."
+      }
+    },
+    { "type": "image", "src": "INSERT_IMAGE" },
+
+    {
+      "type": "dialogue",
+      "speaker": "Clarisse",
+      "text": {
+        "beginner": "Does it really seem like that?",
+        "intermediate": "Does it seem like that, really?",
+        "advanced": "Does it truly feel that way to you?"
+      }
+    },
+    { "type": "image", "src": "INSERT_IMAGE" },
+
+    {
+      "type": "dialogue",
+      "speaker": "Montag",
+      "text": {
+        "beginner": "Of course. Why not?",
+        "intermediate": "Of course. Why not?",
+        "advanced": "Of course it does. Why wouldn’t it?"
+      }
+    },
+    { "type": "image", "src": "INSERT_IMAGE" },
 
     {
       "type": "action",
       "text": {
-        "beginner": "She looks at the orange armband on your arm and the number 451 on your helmet.",
-        "intermediate": "She looks at the orange salamander on your arm and the 451 on your helmet.",
-        "advanced": "Her eyes trace the orange salamander insignia on your sleeve before coming to rest on the silver '451' etched into your helmet."
+        "beginner": "She turns toward the houses. You find yourself walking beside her.",
+        "intermediate": "She turns toward the houses, and you begin walking beside her.",
+        "advanced": "She turns toward the darkened houses, and without realizing it, you walk alongside her."
       }
     },
-
-    { "type": "image", "src": "INSERT_IMAGE" },
-
-    {
-      "type": "dialogue",
-      "speaker": "Montag",
-      "text": {
-        "beginner": "You say that in a strange way.",
-        "intermediate": "How oddly you say that.",
-        "advanced": "You say that with such a peculiar inflection."
-      }
-    },
-
-    { "type": "image", "src": "INSERT_IMAGE" },
 
     {
       "type": "dialogue",
       "speaker": "Clarisse",
       "text": {
-        "beginner": "I would know that smell anywhere. The kerosene...",
-        "intermediate": "I'd—I'd have known it with my eyes shut. The smell of kerosene...",
-        "advanced": "I think I'd have recognized you even with my eyes tightly shut. It’s the scent of kerosene... it never really leaves you."
+        "beginner": "I'm Clarisse McClellan. I'm seventeen and I'm crazy.",
+        "intermediate": "I'm Clarisse McClellan. I'm seventeen and I'm crazy.",
+        "advanced": "I'm Clarisse McClellan. I'm seventeen—and I'm considered quite crazy."
+      }
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Clarisse",
+      "text": {
+        "beginner": "I like to smell things and look at things and sometimes stay up all night.",
+        "intermediate": "I like to smell things and look at things and sometimes stay up all night.",
+        "advanced": "I like to observe, to smell things, to look closely—and sometimes I stay up all night."
+      }
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Clarisse",
+      "text": {
+        "beginner": "Do you ever read the books you burn?",
+        "intermediate": "Do you ever read any of the books you burn?",
+        "advanced": "Do you ever read any of the books before you burn them?"
       }
     },
 
@@ -98,16 +164,74 @@
       "type": "dialogue",
       "speaker": "Montag",
       "text": {
-        
-        "beginner": "My wife complains about it. You can never wash it off. To me, it smells like perfume.",
-        "intermediate": "My wife always complains. You never wash it off completely. Kerosene is nothing but perfume to me.",
-        "advanced": "My wife is forever lamenting the scent; it's impossible to scrub away entirely. To me, however, kerosene is nothing short of perfume."
+        "beginner": "That's against the law!",
+        "intermediate": "That's against the law!",
+        "advanced": "That’s against the law."
+      }
+    },
+
+    {
+      "type": "dialogue",
+      "speaker": "Clarisse",
+      "text": {
+        "beginner": "Did firemen ever put fires out long ago?",
+        "intermediate": "Is it true firemen once put fires out instead of starting them?",
+        "advanced": "Is it true that firemen once extinguished fires rather than starting them?"
       }
     },
 
     {
       "type": "choice_point",
       "ref_id": "history_choice"
+    },
+
+    {
+      "type": "dialogue",
+      "speaker": "Clarisse",
+      "text": {
+        "beginner": "Strange. I heard houses used to burn by accident.",
+        "intermediate": "Strange. I heard houses used to burn by accident.",
+        "advanced": "Strange. I’ve heard that houses once burned by accident."
+      }
+    },
+
+    {
+      "type": "dialogue",
+      "speaker": "Montag",
+      "text": {
+        "beginner": "Why are you laughing?",
+        "intermediate": "Why are you laughing?",
+        "advanced": "Why are you laughing?"
+      }
+    },
+
+    {
+      "type": "dialogue",
+      "speaker": "Clarisse",
+      "text": {
+        "beginner": "I don’t know. You answer too fast.",
+        "intermediate": "I don't know. You answer without thinking.",
+        "advanced": "I don’t know. You answer before thinking about what I’ve asked."
+      }
+    },
+
+    {
+      "type": "action",
+      "text": {
+        "beginner": "You stop walking. You feel uncomfortable.",
+        "intermediate": "You stop walking, unsure why you feel irritated.",
+        "advanced": "You stop walking, unsettled by her words though unsure why."
+      }
+    },
+
+    {
+      "type": "dialogue",
+      "speaker": "Clarisse",
+      "text": {
+        "beginner": "Good night!",
+        "intermediate": "Good night!",
+        "advanced": "Good night."
+      }
     },
 
     {
@@ -125,68 +249,32 @@
       "ref_id": "happy_choice"
     },
 
+    { "type": "image", "src": "INSERT_IMAGE" },
+
     {
       "type": "narrative",
       "text": {
-        "beginner": "Happy! Of all the nonsense. You stand alone in the cold night.",
-        "intermediate": "Happy! Of all the nonsense. You stand alone in the cold night.",
-        "advanced": "Happy! Of all the nonsense. You stand alone in the cold night."
+        "beginner": "She is gone. You stand alone in the night.",
+        "intermediate": "She is already gone, running into the night.",
+        "advanced": "She is already gone, vanishing into the moonlit night."
       }
     }
   ],
-
   "choices": [
     {
       "id": "history_choice",
-      "choice_prompt": {
-        "beginner": "How do you answer?",
-        "intermediate": "How do you answer?",
-        "advanced": "How do you answer?"
-      },
       "options": [
-        {
-          "text": {
-            "beginner": "No. Houses have always been fireproof.",
-            "intermediate": "No. Houses have always been fireproof.",
-            "advanced": "No. Houses have always been fireproof."
-          },
-          "next_index": 19
-        },
-        {
-          "text": {
-            "beginner": "That sounds impossible. Why save dangerous books?",
-            "intermediate": "That sounds impossible. Why save dangerous books?",
-            "advanced": "That sounds impossible. Why save dangerous books?"
-          },
-          "next_index": 19
-        }
+        { "text": "No. Houses have always been fireproof.", "next_index": 19 },
+        { "text": "That sounds impossible.", "next_index": 19 },
+        { "text": "I've heard that too.", "next_index": 19 }
       ]
     },
-
     {
       "id": "happy_choice",
-      "choice_prompt": {
-        "beginner": "What do you say?",
-        "intermediate": "What do you say?",
-        "advanced": "What do you say?"
-      },
       "options": [
-        {
-          "text": {
-            "beginner": "“Am I what?”",
-            "intermediate": "“Am I what?”",
-            "advanced": "“Am I what?”"
-          },
-          "next_index": 37
-        },
-        {
-          "text": {
-            "beginner": "“What do you mean? Of course I am.”",
-            "intermediate": "“What do you mean? Of course I am.”",
-            "advanced": "“What do you mean? Of course I am.”"
-          },
-          "next_index": 37
-        }
+        { "text": "Am I what?", "next_index": 37 },
+        { "text": "What do you mean?", "next_index": 37 },
+        { "text": "...", "next_index": 37 }
       ]
     }
   ]
