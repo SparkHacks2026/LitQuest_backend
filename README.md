@@ -4,7 +4,8 @@ Returns the scene JSON stored in MongoDB.
 
 Instructions: 
 1. git clone https://github.com/LitQuestSparkHacks2026/LitQuest_backend.git
-2. Create .env file in the folder that has the server.js file. Put as content: PORT=5001
+2. Create .env file in the folder that has the server.js file. Put as content:
+PORT=5001
 MONGO_URI=mongodb+srv://Cluster44801:123@litquestdemo.ny6qfgj.mongodb.net/LitQuestDemo?retryWrites=true&w=majority
 3. npm install
 4. node server.js
