@@ -83,41 +83,41 @@
         { "text": "Take the book", "next_index": 27, "set_flag": { "took_book": true }},
         { "text": "Leave the book", "next_index": 28, "set_flag": { "took_book": false }},
       ]
-    }
+    },
     {
       "id": "Response_Choice",
       "options": [
         { "text": "She won't come", "next_index": 43},
         { "text": "There's no budging with this woman", "next_index": 43},
       ]
-    }
+    },
     {
       "id": "Leave_Choice1",
       "options": [
         { "text": "Bring her", "next_index": 45},
         { "text": "Leave her", "next_index": 62},
       ]
-    }
+    },
     {
       "id": "Leave_Choice2",
       "options": [
         { "text": "Please", "next_index": 50},
         { "text": "Leave her", "next_index": 62},
       ]
-    }
+    },
     {
       "id": "Leave_Choice3",
       "options": [
         { "text": "Come on!", "next_index": 53},
         { "text": "Leave her", "next_index": 62},
       ]
-    }
+    },
     {
       "id": "Leave_Choice4",
       "options": [
         { "text": "Leave", "next_index": 62},
       ]
-    }
+    },
     {
       "id": "Save_Choice",
       "options": [
