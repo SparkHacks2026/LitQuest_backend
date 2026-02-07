@@ -154,8 +154,7 @@
             "intermediate": "Take the book.",
             "advanced": "Take the book."
           },
-          "next_index": 27,
-          "set_flag": { "took_book": true }
+          "next_index": 27
         },
         {
           "text": {
@@ -163,8 +162,7 @@
             "intermediate": "Leave the book.",
             "advanced": "Leave the book."
           },
-          "next_index": 28,
-          "set_flag": { "took_book": false }
+          "next_index": 28
         }
       ]
     }

@@ -16,25 +16,25 @@
     {
       "type": "narrative",
       "text": {
-        "beginner": "The neighborhood is silent. Every house has its lights turned off.",
+        "beginner": "The neighborhood is quiet. All the house lights are off.",
         "intermediate": "The neighborhood is silent. Every house has its lights turned off.",
-        "advanced": "The neighborhood is silent. Every house has its lights turned off."
+        "advanced": "A tomb-like silence gripped the suburbs; every window remained dark, sealing the inhabitants away from the world."
       }
     },
     {
       "type": "narrative",
       "text": {
-        "beginner": "You can still smell the strong scent of kerosene on your uniform.",
+        "beginner": "You can still smell the strong chemicals on your uniform.",
         "intermediate": "You can still smell the strong scent of kerosene on your uniform.",
-        "advanced": "You can still smell the strong scent of kerosene on your uniform."
+        "advanced": "The pungent, overwhelming aroma of kerosene clung to your clothes like a second skin, a permanent reminder of your profession."
       }
     },
     {
       "type": "narrative",
       "text": {
-        "beginner": "You turn a corner and stop. A girl is standing in the moonlight in a white dress.",
+        "beginner": "You turn a corner and stop. A girl is standing there in a white dress.",
         "intermediate": "You turn a corner and stop. A girl is standing in the moonlight in a white dress.",
-        "advanced": "You turn a corner and stop. A girl is standing in the moonlight in a white dress."
+        "advanced": "Rounding the corner, you freeze. There, bathed in a pale lunar glow, stood a girl whose white dress seemed to shimmer against the shadows."
       }
     },
 
@@ -44,27 +44,27 @@
       "type": "dialogue",
       "speaker": "Clarisse",
       "text": {
-        "beginner": "Of course, you’re a new neighbor, aren’t you?",
+        "beginner": "Hello. You’re a new neighbor, right?",
         "intermediate": "Of course, you’re a new neighbor, aren’t you?",
-        "advanced": "Of course, you’re a new neighbor, aren’t you?"
+        "advanced": "I thought so... you're the new neighbor who moved in recently, aren't you?"
       }
     },
     {
       "type": "dialogue",
       "speaker": "Clarisse",
       "text": {
-        "beginner": "And you must be... the fireman.",
+        "beginner": "And you are... the fireman.",
         "intermediate": "And you must be... the fireman.",
-        "advanced": "And you must be... the fireman."
+        "advanced": "And that means you must be... the fireman."
       }
     },
 
     {
       "type": "action",
       "text": {
-        "beginner": "She looks at the orange salamander on your arm and the 451 on your helmet.",
+        "beginner": "She looks at the orange lizard on your arm and the number 451 on your helmet.",
         "intermediate": "She looks at the orange salamander on your arm and the 451 on your helmet.",
-        "advanced": "She looks at the orange salamander on your arm and the 451 on your helmet."
+        "advanced": "Her eyes trace the orange salamander insignia on your sleeve before coming to rest on the silver '451' etched into your helmet."
       }
     },
 
@@ -74,9 +74,9 @@
       "type": "dialogue",
       "speaker": "Montag",
       "text": {
-        "beginner": "How oddly you say that.",
+        "beginner": "You say that in a strange way.",
         "intermediate": "How oddly you say that.",
-        "advanced": "How oddly you say that."
+        "advanced": "You say that with such a peculiar inflection."
       }
     },
 
@@ -86,9 +86,9 @@
       "type": "dialogue",
       "speaker": "Clarisse",
       "text": {
-        "beginner": "I'd—I'd have known it with my eyes shut. The smell of kerosene...",
+        "beginner": "I would know that smell anywhere. The kerosene...",
         "intermediate": "I'd—I'd have known it with my eyes shut. The smell of kerosene...",
-        "advanced": "I'd—I'd have known it with my eyes shut. The smell of kerosene..."
+        "advanced": "I think I'd have recognized you even with my eyes tightly shut. It’s the scent of kerosene... it never really leaves you."
       }
     },
 
@@ -98,9 +98,9 @@
       "type": "dialogue",
       "speaker": "Montag",
       "text": {
-        "beginner": "My wife always complains. You never wash it off completely. Kerosene is nothing but perfume to me.",
+        "beginner": "My wife complains about it. You can never wash it off. To me, it smells like perfume.",
         "intermediate": "My wife always complains. You never wash it off completely. Kerosene is nothing but perfume to me.",
-        "advanced": "My wife always complains. You never wash it off completely. Kerosene is nothing but perfume to me."
+        "advanced": "My wife is forever lamenting the scent; it's impossible to scrub away entirely. To me, however, kerosene is nothing short of perfume."
       }
     },
 
