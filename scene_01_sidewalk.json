@@ -36,7 +36,6 @@
         "advanced": "You round a corner and halt. A girl stands motionless in the moonlight, dressed in white."
       }
     },
-    { "type": "image", "src": "INSERT_IMAGE" },
 
     {
       "type": "dialogue",
@@ -64,7 +63,6 @@
         "advanced": "Her gaze lingers on the orange salamander stitched on your arm and the 451 on your helmet."
       }
     },
-    { "type": "image", "src": "INSERT_IMAGE" },
 
     {
       "type": "dialogue",
@@ -75,7 +73,6 @@
         "advanced": "You say that in a very odd way."
       }
     },
-    { "type": "image", "src": "INSERT_IMAGE" },
 
     {
       "type": "dialogue",
@@ -86,7 +83,6 @@
         "advanced": "I’d have known it with my eyes closed—the smell of kerosene gives it away."
       }
     },
-    { "type": "image", "src": "INSERT_IMAGE" },
 
     {
       "type": "dialogue",
@@ -97,7 +93,6 @@
         "advanced": "My wife always complains. You can never wash it off completely. To me, kerosene is perfume."
       }
     },
-    { "type": "image", "src": "INSERT_IMAGE" },
 
     {
       "type": "dialogue",
@@ -108,7 +103,6 @@
         "advanced": "Does it truly feel that way to you?"
       }
     },
-    { "type": "image", "src": "INSERT_IMAGE" },
 
     {
       "type": "dialogue",
@@ -119,7 +113,6 @@
         "advanced": "Of course it does. Why wouldn’t it?"
       }
     },
-    { "type": "image", "src": "INSERT_IMAGE" },
 
     {
       "type": "action",
@@ -157,8 +150,6 @@
         "advanced": "Do you ever read any of the books before you burn them?"
       }
     },
-
-    { "type": "image", "src": "INSERT_IMAGE" },
 
     {
       "type": "dialogue",
