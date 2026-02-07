@@ -23,7 +23,7 @@ node server.js
 
 
 You should see:
-Backend Live on Port 5000
+Backend Live on Port 5001
 
 
 ---
@@ -39,12 +39,6 @@ http://localhost:5000/api/scenes/01-sidewalk-complete
 
 
 Returns the scene JSON stored in MongoDB.
-
----
-
-## Notes
-
-- No auth
 - No validation
 - No game logic
 - Frontend controls all branching using `next_index`
